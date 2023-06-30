@@ -1,0 +1,7 @@
+{
+  "name": "colectivePay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
