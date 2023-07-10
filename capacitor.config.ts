@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'colectivePay',
+  appId: 'com.VerasCode.colectivepay',
+  appName: 'ColectivePay',
   webDir: 'www',
   server: {
     androidScheme: 'https'
